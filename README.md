@@ -3,4 +3,4 @@ My personal playground on GitHub
 
 ## Design ##
 
-[Photoshop etiquette](http://photoshopetiquette.com "Photoshop etiquette")
+Before you start designing, read this : [Photoshop etiquette](http://photoshopetiquette.com "Photoshop etiquette")
