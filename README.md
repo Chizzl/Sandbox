@@ -7,4 +7,4 @@ Before you start designing, read this : [Photoshop etiquette](http://photoshopet
 
 ## E-commerce ##
 
-Start a small free online store ? [Tictail](https://tictail.com "Free online store")!
+Wanna start a small (free) online store? [Tictail](https://tictail.com "Free online store")
