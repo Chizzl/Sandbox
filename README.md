@@ -11,7 +11,7 @@ Before you start designing, read this : [Photoshop etiquette](http://photoshopet
 - [Unsplash - free hi-res pics](https://unsplash.com/ "Unsplash - free hi-res pics")
 
 Related :
-Realtime image processing : http://www.imgix.com/
+- Realtime image processing : http://www.imgix.com/ | http://imageprocessor.org/
 
 ### Icons
 
